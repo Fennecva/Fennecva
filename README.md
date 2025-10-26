@@ -1,19 +1,17 @@
-<p align="center"><b>✨ Hey, Y'all! ✨</b></p>
-
+<p align="center"><img src="https://github.com/Fennecva/Fennecva/blob/main/Backdrop_CVpng.png" width="500"></p>
 <p align="center">
-🔭 I’m currently working on my CompTIA Certifications: A+, Network +, Linux+
-  <br>
-🌱 I’m currently learning a bit of Software Version Control and Network Client OS (Azure Directory, Deployments, etc.)
+🔭 I’m currently working on my CompTIA Certifications: A+, Network +, Linux+ ✨
 <br>
-⚡ For fun, I enjoy light hiking, spending time with my wife and pups, and will be starting up a Homelab for hosting purposes!
+🌱 I’m also picking up a bit of Software Version Control and Network Client OS (Azure Directory, Deployments, etc.) ✨
+<br>
+⚡ For fun, I enjoy light hiking, spending time with my wife and pups, and will be starting up a Homelab for self hosting purposes ✨
 </p>
-<h3 align="center">Tech Skills & Competency <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">Tech Skills & Competency <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center"><a href="https://certification.testout.com/verifycert/6-1C6-VX535F"><img src="https://img.shields.io/badge/CompTIA-PC_Pro-red"></a>
 <a href="https://bcert.me/bc/html/show-badge.html?b=lhufhfgc"><img src="https://img.shields.io/badge/FOA-Fiber_Optic_Tech-green"></a>
   <img src="https://img.shields.io/badge/Adobe-Photoshop-blue">
-
 </p>
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy connecting with different people</b> so if you want to say <b>hi, I'd be happy to connect further!</b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></em>
+<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy connecting with different people</b> so if you want to say hi,<b> I'd be happy to connect further!</b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></em>
 <br>
 <a href="https://www.linkedin.com/in/carlos-valencia-5a46a2358/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>
 <a href="mailto:fennecva@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
